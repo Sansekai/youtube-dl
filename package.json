@@ -1,0 +1,23 @@
+{
+  "name": "youtube-dl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "chalk": "^4.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10",
+    "youtubei": "0.0.1-rc.15",
+    "ytdl-core": "^4.9.0",
+    "ytsr": "^3.5.0"
+  }
+}

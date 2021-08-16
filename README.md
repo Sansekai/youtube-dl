@@ -11,7 +11,7 @@ Anime Picture
 > pkg install ffmpeg
 > pkg install nodejs
 > git clone https://github.com/slavecode/youtube-dl
-> cd anime-picture
+> cd yotube-dl
 > npm install
 ```
 

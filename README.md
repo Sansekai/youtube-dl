@@ -10,7 +10,7 @@ Anime Picture
 > pkg install git
 > pkg install ffmpeg
 > pkg install nodejs
-> git clone https://github.com/slavecode/youtube-dl
+> git clone https://github.com/sansekai/youtube-dl
 > cd yotube-dl
 > npm install
 ```

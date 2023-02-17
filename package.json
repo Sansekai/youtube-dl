@@ -16,7 +16,7 @@
     "fs-extra": "^10.0.0",
     "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.10",
-    "youtubei": "0.0.1-rc.15",
+    "youtubei": "1.1.2",
     "ytdl-core": "^4.11.2",
     "ytsr": "^3.5.0"
   }
